@@ -43,15 +43,17 @@ async function fetchEventData(url) {
   const urls = await fetchClassURLs();
   console.log(`🎯 Found ${urls.length} class URLs:`);
 
-   const allEventData = [];
+  const allEventData = [];
   for (const url of urls) {
+    console.log(`🔗 Scraping: ${url}`);
     const data = await fetchEventData(url);
     if (data) {
       allEventData.push(data);
+    } else {
+      console.warn(`⚠️ No data from ${url}`);
     }
   }
 
-  // ✅ Save the output to a JSON file
+  console.log(`✅ Writing ${allEventData.length} class entries to classData.json`);
   writeFileSync('classData.json', JSON.stringify(allEventData, null, 2));
-  console.log('✅ Wrote class data to classData.json');
 })();
