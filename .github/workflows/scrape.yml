@@ -23,10 +23,10 @@ jobs:
       - name: Run script
         run: node index.js
 
-      - name: Commit updated classData.json
+            - name: Commit updated classData.json
         run: |
-          git config --global user.email "amandamartin.art@gmail.com"
-          git config --global user.name "Slugalug"
+          git config --global user.email "you@example.com"
+          git config --global user.name "GitHub Actions"
           git add classData.json
-          git commit -m "Update class data"
+          git diff --cached --quiet || git commit -m "Update class data"
           git push
