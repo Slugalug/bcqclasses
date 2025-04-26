@@ -209,7 +209,7 @@
         "event_id": "3897010",
         "add_to_waitlist": true,
         "store_id": "7381",
-        "sort_date": 1745683200,
+        "sort_date": null,
         "seats": "0",
         "unlimited_seats": false,
         "in_progress": true,
