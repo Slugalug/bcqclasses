@@ -172,7 +172,7 @@
             "class_id_str": "#2",
             "class_label_str": "Tamarack002",
             "quilt_class_id": "564139",
-            "inventory": "6",
+            "inventory": "5",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -210,7 +210,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1748102400,
-        "seats": "6",
+        "seats": "5",
         "unlimited_seats": false,
         "last_date": "Jun 21, 2025"
       },
