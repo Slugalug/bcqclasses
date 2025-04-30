@@ -589,6 +589,48 @@
     }
   },
   {
+    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/596835/learn-foundation-paper-piecing",
+    "event_data": {
+      "#1": {
+        "class_id_str": "#1",
+        "title": "Learn Foundation Paper Piecing ",
+        "price": "65",
+        "sections": [
+          {
+            "event_id": "4144210",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-06-14 10:00:00",
+            "duration": "0",
+            "end_date": "2025-06-14 17:00:00",
+            "override_event_id": null,
+            "class_id_str": "#1",
+            "class_label_str": "0614LFPP",
+            "quilt_class_id": "596835",
+            "inventory": "20",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "0",
+            "date": "June 14, 2025",
+            "date_short": "Jun 14, 2025",
+            "time": "10:00am - 5:00pm"
+          }
+        ],
+        "first_date": "Jun 14, 2025",
+        "event_id": "4144210",
+        "add_to_waitlist": false,
+        "store_id": "7381",
+        "sort_date": 1749916800,
+        "seats": "20",
+        "unlimited_seats": false,
+        "last_date": "Jun 14, 2025"
+      }
+    }
+  },
+  {
     "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/501837/sit-and-stitch-social",
     "event_data": {
       "#25": {
