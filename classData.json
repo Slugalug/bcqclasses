@@ -19,7 +19,7 @@
             "class_id_str": "#3",
             "class_label_str": "",
             "quilt_class_id": "577942",
-            "inventory": "20",
+            "inventory": "19",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -34,9 +34,10 @@
         "event_id": "3992593",
         "add_to_waitlist": true,
         "store_id": "7381",
-        "sort_date": 1746284400,
-        "seats": "20",
+        "sort_date": null,
+        "seats": "19",
         "unlimited_seats": false,
+        "in_progress": true,
         "last_date": "May 3, 2025"
       },
       "#4": {
@@ -566,7 +567,7 @@
             "class_id_str": "#1",
             "class_label_str": "0614LFPP",
             "quilt_class_id": "596835",
-            "inventory": "19",
+            "inventory": "17",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -582,7 +583,7 @@
         "add_to_waitlist": false,
         "store_id": "7381",
         "sort_date": 1749916800,
-        "seats": "19",
+        "seats": "17",
         "unlimited_seats": false,
         "last_date": "Jun 14, 2025"
       }
