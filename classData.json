@@ -2,44 +2,6 @@
   {
     "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/577942/2025-saturday-sew-day",
     "event_data": {
-      "#3": {
-        "class_id_str": "#3",
-        "title": "2025 Saturday Sew Day",
-        "price": "5",
-        "sections": [
-          {
-            "event_id": "3992593",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-05-03 09:00:00",
-            "duration": "0",
-            "end_date": "2025-05-03 19:00:00",
-            "override_event_id": null,
-            "class_id_str": "#3",
-            "class_label_str": "",
-            "quilt_class_id": "577942",
-            "inventory": "19",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "1",
-            "date": "May 3, 2025",
-            "date_short": "May 3, 2025",
-            "time": "9:00am - 7:00pm"
-          }
-        ],
-        "first_date": "May 3, 2025",
-        "event_id": "3992593",
-        "add_to_waitlist": true,
-        "store_id": "7381",
-        "sort_date": null,
-        "seats": "19",
-        "unlimited_seats": false,
-        "in_progress": true,
-        "last_date": "May 3, 2025"
-      },
       "#4": {
         "class_id_str": "#4",
         "title": "2025 Saturday Sew Day",
