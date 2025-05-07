@@ -571,7 +571,7 @@
             "class_id_str": "#25",
             "class_label_str": "",
             "quilt_class_id": "501837",
-            "inventory": "17",
+            "inventory": "16",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -587,7 +587,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1746633600,
-        "seats": "17",
+        "seats": "16",
         "unlimited_seats": false,
         "last_date": "May 7, 2025"
       },
