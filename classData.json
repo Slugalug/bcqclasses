@@ -135,7 +135,7 @@
             "class_id_str": "#2",
             "class_label_str": "Tamarack002",
             "quilt_class_id": "564139",
-            "inventory": "5",
+            "inventory": "4",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -173,7 +173,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1748102400,
-        "seats": "5",
+        "seats": "4",
         "unlimited_seats": false,
         "last_date": "Jun 21, 2025"
       },
@@ -445,7 +445,7 @@
             "class_id_str": "#2",
             "class_label_str": "JULY 19",
             "quilt_class_id": "585530",
-            "inventory": "8",
+            "inventory": "6",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -461,7 +461,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1752940800,
-        "seats": "8",
+        "seats": "6",
         "unlimited_seats": false,
         "last_date": "Jul 19, 2025"
       }
@@ -529,7 +529,7 @@
             "class_id_str": "#1",
             "class_label_str": "0614LFPP",
             "quilt_class_id": "596835",
-            "inventory": "13",
+            "inventory": "11",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -545,7 +545,7 @@
         "add_to_waitlist": false,
         "store_id": "7381",
         "sort_date": 1749916800,
-        "seats": "13",
+        "seats": "11",
         "unlimited_seats": false,
         "last_date": "Jun 14, 2025"
       }
