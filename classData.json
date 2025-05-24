@@ -172,9 +172,10 @@
         "event_id": "3897012",
         "add_to_waitlist": true,
         "store_id": "7381",
-        "sort_date": 1748102400,
+        "sort_date": 1750521600,
         "seats": "5",
         "unlimited_seats": false,
+        "in_progress": true,
         "last_date": "Jun 21, 2025"
       },
       "#3": {
