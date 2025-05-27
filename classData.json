@@ -530,7 +530,7 @@
             "class_id_str": "#1",
             "class_label_str": "0614LFPP",
             "quilt_class_id": "596835",
-            "inventory": "6",
+            "inventory": "7",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -546,7 +546,7 @@
         "add_to_waitlist": false,
         "store_id": "7381",
         "sort_date": 1749916800,
-        "seats": "6",
+        "seats": "7",
         "unlimited_seats": false,
         "last_date": "Jun 14, 2025"
       }
