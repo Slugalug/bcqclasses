@@ -556,44 +556,6 @@
   {
     "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/501837/sit-and-stitch-social",
     "event_data": {
-      "#26": {
-        "class_id_str": "#26",
-        "title": "Sit and Stitch Social",
-        "price": "5",
-        "sections": [
-          {
-            "event_id": "3992671",
-            "store_id": "7381",
-            "event_group_id": null,
-            "address": null,
-            "start_date": "2025-06-04 10:00:00",
-            "duration": "0",
-            "end_date": "2025-06-04 15:00:00",
-            "override_event_id": null,
-            "class_id_str": "#26",
-            "class_label_str": "",
-            "quilt_class_id": "501837",
-            "inventory": "12",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "1",
-            "date": "June 4, 2025",
-            "date_short": "Jun 4, 2025",
-            "time": "10:00am - 3:00pm"
-          }
-        ],
-        "first_date": "Jun 4, 2025",
-        "event_id": "3992671",
-        "add_to_waitlist": true,
-        "store_id": "7381",
-        "sort_date": null,
-        "seats": "12",
-        "unlimited_seats": false,
-        "in_progress": true,
-        "last_date": "Jun 4, 2025"
-      },
       "#27": {
         "class_id_str": "#27",
         "title": "Sit and Stitch Social",
