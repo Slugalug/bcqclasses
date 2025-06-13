@@ -410,7 +410,7 @@
             "class_id_str": "#1",
             "class_label_str": "JUNE 28",
             "quilt_class_id": "585530",
-            "inventory": "1",
+            "inventory": "0",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -426,7 +426,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1751126400,
-        "seats": "1",
+        "seats": "0",
         "unlimited_seats": false,
         "last_date": "Jun 28, 2025"
       },
