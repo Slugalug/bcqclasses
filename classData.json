@@ -116,70 +116,6 @@
     }
   },
   {
-    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/602532/beginner-cross-stitch-class",
-    "event_data": {
-      "#1": {
-        "class_id_str": "#1",
-        "title": "Beginner Cross Stitch Class",
-        "price": "115",
-        "sections": [
-          {
-            "event_id": "4182077",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-09-11 10:00:00",
-            "duration": "0",
-            "end_date": "2025-09-11 15:00:00",
-            "override_event_id": null,
-            "class_id_str": "#1",
-            "class_label_str": "",
-            "quilt_class_id": "602532",
-            "inventory": "40",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "0",
-            "date": "September 11, 2025",
-            "date_short": "Sep 11, 2025",
-            "time": "10:00am - 3:00pm"
-          },
-          {
-            "event_id": "4182078",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-09-12 10:00:00",
-            "duration": "0",
-            "end_date": "2025-09-12 15:00:00",
-            "override_event_id": null,
-            "class_id_str": "#1",
-            "class_label_str": "",
-            "quilt_class_id": "602532",
-            "inventory": "40",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "0",
-            "date": "September 12, 2025",
-            "date_short": "Sep 12, 2025",
-            "time": "10:00am - 3:00pm"
-          }
-        ],
-        "first_date": "Sep 11, 2025",
-        "event_id": "4182077",
-        "add_to_waitlist": false,
-        "store_id": "7381",
-        "sort_date": 1757606400,
-        "seats": "40",
-        "unlimited_seats": false,
-        "last_date": "Sep 12, 2025"
-      }
-    }
-  },
-  {
     "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/501837/sit-and-stitch-social",
     "event_data": {
       "#27": {
@@ -407,6 +343,70 @@
     }
   },
   {
+    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/602532/beginner-cross-stitch-class",
+    "event_data": {
+      "#1": {
+        "class_id_str": "#1",
+        "title": "Beginner Cross Stitch Class",
+        "price": "115",
+        "sections": [
+          {
+            "event_id": "4182077",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-09-11 10:00:00",
+            "duration": "0",
+            "end_date": "2025-09-11 15:00:00",
+            "override_event_id": null,
+            "class_id_str": "#1",
+            "class_label_str": "",
+            "quilt_class_id": "602532",
+            "inventory": "40",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "0",
+            "date": "September 11, 2025",
+            "date_short": "Sep 11, 2025",
+            "time": "10:00am - 3:00pm"
+          },
+          {
+            "event_id": "4182078",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-09-12 10:00:00",
+            "duration": "0",
+            "end_date": "2025-09-12 15:00:00",
+            "override_event_id": null,
+            "class_id_str": "#1",
+            "class_label_str": "",
+            "quilt_class_id": "602532",
+            "inventory": "40",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "0",
+            "date": "September 12, 2025",
+            "date_short": "Sep 12, 2025",
+            "time": "10:00am - 3:00pm"
+          }
+        ],
+        "first_date": "Sep 11, 2025",
+        "event_id": "4182077",
+        "add_to_waitlist": false,
+        "store_id": "7381",
+        "sort_date": 1757606400,
+        "seats": "40",
+        "unlimited_seats": false,
+        "last_date": "Sep 12, 2025"
+      }
+    }
+  },
+  {
     "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/564139/2025-tamarack-jacket-classes",
     "event_data": {
       "#2": {
@@ -448,7 +448,7 @@
             "class_id_str": "#2",
             "class_label_str": "Tamarack002",
             "quilt_class_id": "564139",
-            "inventory": "8",
+            "inventory": "5",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -508,7 +508,7 @@
             "class_id_str": "#3",
             "class_label_str": "Tamarack003",
             "quilt_class_id": "564139",
-            "inventory": "14",
+            "inventory": "5",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -527,6 +527,48 @@
         "seats": "5",
         "unlimited_seats": false,
         "last_date": "Sep 20, 2025"
+      }
+    }
+  },
+  {
+    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/587216/cookie-cutter-beginner-applique-class",
+    "event_data": {
+      "#1": {
+        "class_id_str": "#1",
+        "title": "Cookie Cutter Beginner Applique Class",
+        "price": "55",
+        "sections": [
+          {
+            "event_id": "4074538",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-09-27 10:00:00",
+            "duration": "0",
+            "end_date": "2025-09-27 17:00:00",
+            "override_event_id": null,
+            "class_id_str": "#1",
+            "class_label_str": "",
+            "quilt_class_id": "587216",
+            "inventory": "5",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "September 27, 2025",
+            "date_short": "Sep 27, 2025",
+            "time": "10:00am - 5:00pm"
+          }
+        ],
+        "first_date": "Sep 27, 2025",
+        "event_id": "4074538",
+        "add_to_waitlist": true,
+        "store_id": "7381",
+        "sort_date": 1758988800,
+        "seats": "5",
+        "unlimited_seats": false,
+        "last_date": "Sep 27, 2025"
       }
     }
   },
@@ -640,48 +682,6 @@
     }
   },
   {
-    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/587216/cookie-cutter-beginner-applique-class",
-    "event_data": {
-      "#1": {
-        "class_id_str": "#1",
-        "title": "Cookie Cutter Beginner Applique Class",
-        "price": "55",
-        "sections": [
-          {
-            "event_id": "4074538",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-09-27 10:00:00",
-            "duration": "0",
-            "end_date": "2025-09-27 17:00:00",
-            "override_event_id": null,
-            "class_id_str": "#1",
-            "class_label_str": "",
-            "quilt_class_id": "587216",
-            "inventory": "5",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "1",
-            "date": "September 27, 2025",
-            "date_short": "Sep 27, 2025",
-            "time": "10:00am - 5:00pm"
-          }
-        ],
-        "first_date": "Sep 27, 2025",
-        "event_id": "4074538",
-        "add_to_waitlist": true,
-        "store_id": "7381",
-        "sort_date": 1758988800,
-        "seats": "5",
-        "unlimited_seats": false,
-        "last_date": "Sep 27, 2025"
-      }
-    }
-  },
-  {
     "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/585530/custom-quilted-sneakers-workshop",
     "event_data": {
       "#1": {
@@ -706,7 +706,7 @@
             "status": "active",
             "external_event_id": null,
             "main_image": null,
-            "show_add_to_wait_list_button": "1",
+            "show_add_to_wait_list_button": "0",
             "date": "June 28, 2025",
             "date_short": "Jun 28, 2025",
             "time": "10:00am - 5:00pm"
@@ -714,7 +714,7 @@
         ],
         "first_date": "Jun 28, 2025",
         "event_id": "4062612",
-        "add_to_waitlist": true,
+        "add_to_waitlist": false,
         "store_id": "7381",
         "sort_date": 1751126400,
         "seats": "0",
@@ -743,7 +743,7 @@
             "status": "active",
             "external_event_id": null,
             "main_image": null,
-            "show_add_to_wait_list_button": "1",
+            "show_add_to_wait_list_button": "0",
             "date": "July 19, 2025",
             "date_short": "Jul 19, 2025",
             "time": "10:00am - 5:00pm"
@@ -751,7 +751,7 @@
         ],
         "first_date": "Jul 19, 2025",
         "event_id": "4099659",
-        "add_to_waitlist": true,
+        "add_to_waitlist": false,
         "store_id": "7381",
         "sort_date": 1752940800,
         "seats": "0",
