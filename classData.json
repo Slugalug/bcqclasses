@@ -515,44 +515,6 @@
   {
     "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/585530/custom-quilted-sneakers-workshop",
     "event_data": {
-      "#1": {
-        "class_id_str": "#1",
-        "title": "Custom Quilted Sneakers Workshop",
-        "price": "160",
-        "sections": [
-          {
-            "event_id": "4062612",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-06-28 10:00:00",
-            "duration": "0",
-            "end_date": "2025-06-28 17:00:00",
-            "override_event_id": null,
-            "class_id_str": "#1",
-            "class_label_str": "JUNE 28",
-            "quilt_class_id": "585530",
-            "inventory": "0",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "0",
-            "date": "June 28, 2025",
-            "date_short": "Jun 28, 2025",
-            "time": "10:00am - 5:00pm"
-          }
-        ],
-        "first_date": "Jun 28, 2025",
-        "event_id": "4062612",
-        "add_to_waitlist": false,
-        "store_id": "7381",
-        "sort_date": null,
-        "seats": "0",
-        "unlimited_seats": false,
-        "in_progress": true,
-        "last_date": "Jun 28, 2025"
-      },
       "#2": {
         "class_id_str": "#2",
         "title": "Custom Quilted Sneakers Workshop",
