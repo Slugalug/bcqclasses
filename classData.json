@@ -1,5 +1,518 @@
 [
   {
+    "url": "https://www.boxcarquilts.com/module/class/577942/2025-saturday-sew-day",
+    "event_data": {
+      "#4": {
+        "class_id_str": "#4",
+        "title": "2025 Saturday Sew Day",
+        "price": "5",
+        "sections": [
+          {
+            "event_id": "3992594",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-07-05 09:00:00",
+            "duration": "0",
+            "end_date": "2025-07-05 19:00:00",
+            "override_event_id": null,
+            "class_id_str": "#4",
+            "class_label_str": "",
+            "quilt_class_id": "577942",
+            "inventory": "35",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "July 5, 2025",
+            "date_short": "Jul 5, 2025",
+            "time": "9:00am - 7:00pm"
+          }
+        ],
+        "first_date": "Jul 5, 2025",
+        "event_id": "3992594",
+        "add_to_waitlist": true,
+        "store_id": "7381",
+        "sort_date": 1751727600,
+        "seats": "35",
+        "unlimited_seats": false,
+        "last_date": "Jul 5, 2025"
+      },
+      "#5": {
+        "class_id_str": "#5",
+        "title": "2025 Saturday Sew Day",
+        "price": "5",
+        "sections": [
+          {
+            "event_id": "3992595",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-09-06 09:00:00",
+            "duration": "0",
+            "end_date": "2025-09-06 19:00:00",
+            "override_event_id": null,
+            "class_id_str": "#5",
+            "class_label_str": "",
+            "quilt_class_id": "577942",
+            "inventory": "36",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "September 6, 2025",
+            "date_short": "Sep 6, 2025",
+            "time": "9:00am - 7:00pm"
+          }
+        ],
+        "first_date": "Sep 6, 2025",
+        "event_id": "3992595",
+        "add_to_waitlist": true,
+        "store_id": "7381",
+        "sort_date": 1757170800,
+        "seats": "36",
+        "unlimited_seats": false,
+        "last_date": "Sep 6, 2025"
+      },
+      "#6": {
+        "class_id_str": "#6",
+        "title": "2025 Saturday Sew Day",
+        "price": "5",
+        "sections": [
+          {
+            "event_id": "3992596",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-11-01 09:00:00",
+            "duration": "0",
+            "end_date": "2025-11-01 19:00:00",
+            "override_event_id": null,
+            "class_id_str": "#6",
+            "class_label_str": "",
+            "quilt_class_id": "577942",
+            "inventory": "37",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "November 1, 2025",
+            "date_short": "Nov 1, 2025",
+            "time": "9:00am - 7:00pm"
+          }
+        ],
+        "first_date": "Nov 1, 2025",
+        "event_id": "3992596",
+        "add_to_waitlist": true,
+        "store_id": "7381",
+        "sort_date": 1762009200,
+        "seats": "37",
+        "unlimited_seats": false,
+        "last_date": "Nov 1, 2025"
+      }
+    }
+  },
+  {
+    "url": "https://www.boxcarquilts.com/module/class/501837/sit-and-stitch-social",
+    "event_data": {
+      "#27": {
+        "class_id_str": "#27",
+        "title": "Sit and Stitch Social",
+        "price": "5",
+        "sections": [
+          {
+            "event_id": "3992672",
+            "store_id": "7381",
+            "event_group_id": null,
+            "address": null,
+            "start_date": "2025-07-02 10:00:00",
+            "duration": "0",
+            "end_date": "2025-07-02 15:00:00",
+            "override_event_id": null,
+            "class_id_str": "#27",
+            "class_label_str": "",
+            "quilt_class_id": "501837",
+            "inventory": "29",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "July 2, 2025",
+            "date_short": "Jul 2, 2025",
+            "time": "10:00am - 3:00pm"
+          }
+        ],
+        "first_date": "Jul 2, 2025",
+        "event_id": "3992672",
+        "add_to_waitlist": true,
+        "store_id": "7381",
+        "sort_date": 1751472000,
+        "seats": "29",
+        "unlimited_seats": false,
+        "last_date": "Jul 2, 2025"
+      },
+      "#28": {
+        "class_id_str": "#28",
+        "title": "Sit and Stitch Social",
+        "price": "5",
+        "sections": [
+          {
+            "event_id": "3992673",
+            "store_id": "7381",
+            "event_group_id": null,
+            "address": null,
+            "start_date": "2025-08-06 10:00:00",
+            "duration": "0",
+            "end_date": "2025-08-06 15:00:00",
+            "override_event_id": null,
+            "class_id_str": "#28",
+            "class_label_str": "",
+            "quilt_class_id": "501837",
+            "inventory": "28",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "August 6, 2025",
+            "date_short": "Aug 6, 2025",
+            "time": "10:00am - 3:00pm"
+          }
+        ],
+        "first_date": "Aug 6, 2025",
+        "event_id": "3992673",
+        "add_to_waitlist": true,
+        "store_id": "7381",
+        "sort_date": 1754496000,
+        "seats": "28",
+        "unlimited_seats": false,
+        "last_date": "Aug 6, 2025"
+      },
+      "#29": {
+        "class_id_str": "#29",
+        "title": "Sit and Stitch Social",
+        "price": "5",
+        "sections": [
+          {
+            "event_id": "3992674",
+            "store_id": "7381",
+            "event_group_id": null,
+            "address": null,
+            "start_date": "2025-09-03 10:00:00",
+            "duration": "0",
+            "end_date": "2025-09-03 15:00:00",
+            "override_event_id": null,
+            "class_id_str": "#29",
+            "class_label_str": "",
+            "quilt_class_id": "501837",
+            "inventory": "29",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "September 3, 2025",
+            "date_short": "Sep 3, 2025",
+            "time": "10:00am - 3:00pm"
+          }
+        ],
+        "first_date": "Sep 3, 2025",
+        "event_id": "3992674",
+        "add_to_waitlist": true,
+        "store_id": "7381",
+        "sort_date": 1756915200,
+        "seats": "29",
+        "unlimited_seats": false,
+        "last_date": "Sep 3, 2025"
+      },
+      "#30": {
+        "class_id_str": "#30",
+        "title": "Sit and Stitch Social",
+        "price": "5",
+        "sections": [
+          {
+            "event_id": "3992675",
+            "store_id": "7381",
+            "event_group_id": null,
+            "address": null,
+            "start_date": "2025-10-01 10:00:00",
+            "duration": "0",
+            "end_date": "2025-10-01 15:00:00",
+            "override_event_id": null,
+            "class_id_str": "#30",
+            "class_label_str": "",
+            "quilt_class_id": "501837",
+            "inventory": "29",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "October 1, 2025",
+            "date_short": "Oct 1, 2025",
+            "time": "10:00am - 3:00pm"
+          }
+        ],
+        "first_date": "Oct 1, 2025",
+        "event_id": "3992675",
+        "add_to_waitlist": true,
+        "store_id": "7381",
+        "sort_date": 1759334400,
+        "seats": "29",
+        "unlimited_seats": false,
+        "last_date": "Oct 1, 2025"
+      },
+      "#31": {
+        "class_id_str": "#31",
+        "title": "Sit and Stitch Social",
+        "price": "5",
+        "sections": [
+          {
+            "event_id": "3992676",
+            "store_id": "7381",
+            "event_group_id": null,
+            "address": null,
+            "start_date": "2025-11-05 10:00:00",
+            "duration": "0",
+            "end_date": "2025-11-05 15:00:00",
+            "override_event_id": null,
+            "class_id_str": "#31",
+            "class_label_str": "",
+            "quilt_class_id": "501837",
+            "inventory": "29",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "November 5, 2025",
+            "date_short": "Nov 5, 2025",
+            "time": "10:00am - 3:00pm"
+          }
+        ],
+        "first_date": "Nov 5, 2025",
+        "event_id": "3992676",
+        "add_to_waitlist": true,
+        "store_id": "7381",
+        "sort_date": 1762362000,
+        "seats": "29",
+        "unlimited_seats": false,
+        "last_date": "Nov 5, 2025"
+      },
+      "#32": {
+        "class_id_str": "#32",
+        "title": "Sit and Stitch Social",
+        "price": "5",
+        "sections": [
+          {
+            "event_id": "3992677",
+            "store_id": "7381",
+            "event_group_id": null,
+            "address": null,
+            "start_date": "2025-12-03 10:00:00",
+            "duration": "0",
+            "end_date": "2025-12-03 15:00:00",
+            "override_event_id": null,
+            "class_id_str": "#32",
+            "class_label_str": "",
+            "quilt_class_id": "501837",
+            "inventory": "29",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "December 3, 2025",
+            "date_short": "Dec 3, 2025",
+            "time": "10:00am - 3:00pm"
+          }
+        ],
+        "first_date": "Dec 3, 2025",
+        "event_id": "3992677",
+        "add_to_waitlist": true,
+        "store_id": "7381",
+        "sort_date": 1764781200,
+        "seats": "29",
+        "unlimited_seats": false,
+        "last_date": "Dec 3, 2025"
+      }
+    }
+  },
+  {
+    "url": "https://www.boxcarquilts.com/module/class/602532/beginner-cross-stitch-class",
+    "event_data": {
+      "#1": {
+        "class_id_str": "#1",
+        "title": "Beginner Cross Stitch Class",
+        "price": "115",
+        "sections": [
+          {
+            "event_id": "4182077",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-09-11 10:00:00",
+            "duration": "0",
+            "end_date": "2025-09-11 15:00:00",
+            "override_event_id": null,
+            "class_id_str": "#1",
+            "class_label_str": "",
+            "quilt_class_id": "602532",
+            "inventory": "40",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "0",
+            "date": "September 11, 2025",
+            "date_short": "Sep 11, 2025",
+            "time": "10:00am - 3:00pm"
+          },
+          {
+            "event_id": "4182078",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-09-12 10:00:00",
+            "duration": "0",
+            "end_date": "2025-09-12 15:00:00",
+            "override_event_id": null,
+            "class_id_str": "#1",
+            "class_label_str": "",
+            "quilt_class_id": "602532",
+            "inventory": "40",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "0",
+            "date": "September 12, 2025",
+            "date_short": "Sep 12, 2025",
+            "time": "10:00am - 3:00pm"
+          }
+        ],
+        "first_date": "Sep 11, 2025",
+        "event_id": "4182077",
+        "add_to_waitlist": false,
+        "store_id": "7381",
+        "sort_date": 1757606400,
+        "seats": "40",
+        "unlimited_seats": false,
+        "last_date": "Sep 12, 2025"
+      }
+    }
+  },
+  {
+    "url": "https://www.boxcarquilts.com/module/class/564139/2025-tamarack-jacket-classes",
+    "event_data": {
+      "#3": {
+        "class_id_str": "#3",
+        "title": "2025 Tamarack Jacket Classes ",
+        "price": "95",
+        "sections": [
+          {
+            "event_id": "3897014",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-08-02 10:00:00",
+            "duration": "0",
+            "end_date": "2025-08-02 13:00:00",
+            "override_event_id": null,
+            "class_id_str": "#3",
+            "class_label_str": "Tamarack003",
+            "quilt_class_id": "564139",
+            "inventory": "4",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "August 2, 2025",
+            "date_short": "Aug 2, 2025",
+            "time": "10:00am - 1:00pm"
+          },
+          {
+            "event_id": "3897015",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-09-20 10:00:00",
+            "duration": "0",
+            "end_date": "2025-09-20 17:00:00",
+            "override_event_id": null,
+            "class_id_str": "#3",
+            "class_label_str": "Tamarack003",
+            "quilt_class_id": "564139",
+            "inventory": "5",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "September 20, 2025",
+            "date_short": "Sep 20, 2025",
+            "time": "10:00am - 5:00pm"
+          }
+        ],
+        "first_date": "Aug 2, 2025",
+        "event_id": "3897014",
+        "add_to_waitlist": true,
+        "store_id": "7381",
+        "sort_date": 1754150400,
+        "seats": "4",
+        "unlimited_seats": false,
+        "last_date": "Sep 20, 2025"
+      }
+    }
+  },
+  {
+    "url": "https://www.boxcarquilts.com/module/class/587216/cookie-cutter-beginner-applique-class",
+    "event_data": {
+      "#1": {
+        "class_id_str": "#1",
+        "title": "Cookie Cutter Beginner Applique Class",
+        "price": "55",
+        "sections": [
+          {
+            "event_id": "4074538",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-09-27 10:00:00",
+            "duration": "0",
+            "end_date": "2025-09-27 17:00:00",
+            "override_event_id": null,
+            "class_id_str": "#1",
+            "class_label_str": "",
+            "quilt_class_id": "587216",
+            "inventory": "5",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "September 27, 2025",
+            "date_short": "Sep 27, 2025",
+            "time": "10:00am - 5:00pm"
+          }
+        ],
+        "first_date": "Sep 27, 2025",
+        "event_id": "4074538",
+        "add_to_waitlist": true,
+        "store_id": "7381",
+        "sort_date": 1758988800,
+        "seats": "5",
+        "unlimited_seats": false,
+        "last_date": "Sep 27, 2025"
+      }
+    }
+  },
+  {
     "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/577942/2025-saturday-sew-day",
     "event_data": {
       "#4": {
@@ -112,6 +625,218 @@
         "seats": "37",
         "unlimited_seats": false,
         "last_date": "Nov 1, 2025"
+      }
+    }
+  },
+  {
+    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/564139/2025-tamarack-jacket-classes",
+    "event_data": {
+      "#3": {
+        "class_id_str": "#3",
+        "title": "2025 Tamarack Jacket Classes ",
+        "price": "95",
+        "sections": [
+          {
+            "event_id": "3897014",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-08-02 10:00:00",
+            "duration": "0",
+            "end_date": "2025-08-02 13:00:00",
+            "override_event_id": null,
+            "class_id_str": "#3",
+            "class_label_str": "Tamarack003",
+            "quilt_class_id": "564139",
+            "inventory": "4",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "August 2, 2025",
+            "date_short": "Aug 2, 2025",
+            "time": "10:00am - 1:00pm"
+          },
+          {
+            "event_id": "3897015",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-09-20 10:00:00",
+            "duration": "0",
+            "end_date": "2025-09-20 17:00:00",
+            "override_event_id": null,
+            "class_id_str": "#3",
+            "class_label_str": "Tamarack003",
+            "quilt_class_id": "564139",
+            "inventory": "5",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "September 20, 2025",
+            "date_short": "Sep 20, 2025",
+            "time": "10:00am - 5:00pm"
+          }
+        ],
+        "first_date": "Aug 2, 2025",
+        "event_id": "3897014",
+        "add_to_waitlist": true,
+        "store_id": "7381",
+        "sort_date": 1754150400,
+        "seats": "4",
+        "unlimited_seats": false,
+        "last_date": "Sep 20, 2025"
+      }
+    }
+  },
+  {
+    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/602532/beginner-cross-stitch-class",
+    "event_data": {
+      "#1": {
+        "class_id_str": "#1",
+        "title": "Beginner Cross Stitch Class",
+        "price": "115",
+        "sections": [
+          {
+            "event_id": "4182077",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-09-11 10:00:00",
+            "duration": "0",
+            "end_date": "2025-09-11 15:00:00",
+            "override_event_id": null,
+            "class_id_str": "#1",
+            "class_label_str": "",
+            "quilt_class_id": "602532",
+            "inventory": "40",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "0",
+            "date": "September 11, 2025",
+            "date_short": "Sep 11, 2025",
+            "time": "10:00am - 3:00pm"
+          },
+          {
+            "event_id": "4182078",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-09-12 10:00:00",
+            "duration": "0",
+            "end_date": "2025-09-12 15:00:00",
+            "override_event_id": null,
+            "class_id_str": "#1",
+            "class_label_str": "",
+            "quilt_class_id": "602532",
+            "inventory": "40",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "0",
+            "date": "September 12, 2025",
+            "date_short": "Sep 12, 2025",
+            "time": "10:00am - 3:00pm"
+          }
+        ],
+        "first_date": "Sep 11, 2025",
+        "event_id": "4182077",
+        "add_to_waitlist": false,
+        "store_id": "7381",
+        "sort_date": 1757606400,
+        "seats": "40",
+        "unlimited_seats": false,
+        "last_date": "Sep 12, 2025"
+      }
+    }
+  },
+  {
+    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/587216/cookie-cutter-beginner-applique-class",
+    "event_data": {
+      "#1": {
+        "class_id_str": "#1",
+        "title": "Cookie Cutter Beginner Applique Class",
+        "price": "55",
+        "sections": [
+          {
+            "event_id": "4074538",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-09-27 10:00:00",
+            "duration": "0",
+            "end_date": "2025-09-27 17:00:00",
+            "override_event_id": null,
+            "class_id_str": "#1",
+            "class_label_str": "",
+            "quilt_class_id": "587216",
+            "inventory": "5",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "September 27, 2025",
+            "date_short": "Sep 27, 2025",
+            "time": "10:00am - 5:00pm"
+          }
+        ],
+        "first_date": "Sep 27, 2025",
+        "event_id": "4074538",
+        "add_to_waitlist": true,
+        "store_id": "7381",
+        "sort_date": 1758988800,
+        "seats": "5",
+        "unlimited_seats": false,
+        "last_date": "Sep 27, 2025"
+      }
+    }
+  },
+  {
+    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/587215/home-tweet-home-applique-class",
+    "event_data": {
+      "#1": {
+        "class_id_str": "#1",
+        "title": "Home Tweet Home Applique Class",
+        "price": "75",
+        "sections": [
+          {
+            "event_id": "4074537",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-07-26 10:00:00",
+            "duration": "0",
+            "end_date": "2025-07-26 17:00:00",
+            "override_event_id": null,
+            "class_id_str": "#1",
+            "class_label_str": "",
+            "quilt_class_id": "587215",
+            "inventory": "0",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "July 26, 2025",
+            "date_short": "Jul 26, 2025",
+            "time": "10:00am - 5:00pm"
+          }
+        ],
+        "first_date": "Jul 26, 2025",
+        "event_id": "4074537",
+        "add_to_waitlist": true,
+        "store_id": "7381",
+        "sort_date": 1753545600,
+        "seats": "0",
+        "unlimited_seats": false,
+        "last_date": "Jul 26, 2025"
       }
     }
   },
@@ -339,260 +1064,6 @@
         "seats": "29",
         "unlimited_seats": false,
         "last_date": "Dec 3, 2025"
-      }
-    }
-  },
-  {
-    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/602532/beginner-cross-stitch-class",
-    "event_data": {
-      "#1": {
-        "class_id_str": "#1",
-        "title": "Beginner Cross Stitch Class",
-        "price": "115",
-        "sections": [
-          {
-            "event_id": "4182077",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-09-11 10:00:00",
-            "duration": "0",
-            "end_date": "2025-09-11 15:00:00",
-            "override_event_id": null,
-            "class_id_str": "#1",
-            "class_label_str": "",
-            "quilt_class_id": "602532",
-            "inventory": "40",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "0",
-            "date": "September 11, 2025",
-            "date_short": "Sep 11, 2025",
-            "time": "10:00am - 3:00pm"
-          },
-          {
-            "event_id": "4182078",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-09-12 10:00:00",
-            "duration": "0",
-            "end_date": "2025-09-12 15:00:00",
-            "override_event_id": null,
-            "class_id_str": "#1",
-            "class_label_str": "",
-            "quilt_class_id": "602532",
-            "inventory": "40",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "0",
-            "date": "September 12, 2025",
-            "date_short": "Sep 12, 2025",
-            "time": "10:00am - 3:00pm"
-          }
-        ],
-        "first_date": "Sep 11, 2025",
-        "event_id": "4182077",
-        "add_to_waitlist": false,
-        "store_id": "7381",
-        "sort_date": 1757606400,
-        "seats": "40",
-        "unlimited_seats": false,
-        "last_date": "Sep 12, 2025"
-      }
-    }
-  },
-  {
-    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/564139/2025-tamarack-jacket-classes",
-    "event_data": {
-      "#3": {
-        "class_id_str": "#3",
-        "title": "2025 Tamarack Jacket Classes ",
-        "price": "95",
-        "sections": [
-          {
-            "event_id": "3897014",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-08-02 10:00:00",
-            "duration": "0",
-            "end_date": "2025-08-02 13:00:00",
-            "override_event_id": null,
-            "class_id_str": "#3",
-            "class_label_str": "Tamarack003",
-            "quilt_class_id": "564139",
-            "inventory": "4",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "1",
-            "date": "August 2, 2025",
-            "date_short": "Aug 2, 2025",
-            "time": "10:00am - 1:00pm"
-          },
-          {
-            "event_id": "3897015",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-09-20 10:00:00",
-            "duration": "0",
-            "end_date": "2025-09-20 17:00:00",
-            "override_event_id": null,
-            "class_id_str": "#3",
-            "class_label_str": "Tamarack003",
-            "quilt_class_id": "564139",
-            "inventory": "5",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "1",
-            "date": "September 20, 2025",
-            "date_short": "Sep 20, 2025",
-            "time": "10:00am - 5:00pm"
-          }
-        ],
-        "first_date": "Aug 2, 2025",
-        "event_id": "3897014",
-        "add_to_waitlist": true,
-        "store_id": "7381",
-        "sort_date": 1754150400,
-        "seats": "4",
-        "unlimited_seats": false,
-        "last_date": "Sep 20, 2025"
-      }
-    }
-  },
-  {
-    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/587216/cookie-cutter-beginner-applique-class",
-    "event_data": {
-      "#1": {
-        "class_id_str": "#1",
-        "title": "Cookie Cutter Beginner Applique Class",
-        "price": "55",
-        "sections": [
-          {
-            "event_id": "4074538",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-09-27 10:00:00",
-            "duration": "0",
-            "end_date": "2025-09-27 17:00:00",
-            "override_event_id": null,
-            "class_id_str": "#1",
-            "class_label_str": "",
-            "quilt_class_id": "587216",
-            "inventory": "5",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "1",
-            "date": "September 27, 2025",
-            "date_short": "Sep 27, 2025",
-            "time": "10:00am - 5:00pm"
-          }
-        ],
-        "first_date": "Sep 27, 2025",
-        "event_id": "4074538",
-        "add_to_waitlist": true,
-        "store_id": "7381",
-        "sort_date": 1758988800,
-        "seats": "5",
-        "unlimited_seats": false,
-        "last_date": "Sep 27, 2025"
-      }
-    }
-  },
-  {
-    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/585530/custom-quilted-sneakers-workshop",
-    "event_data": {
-      "#2": {
-        "class_id_str": "#2",
-        "title": "Custom Quilted Sneakers Workshop",
-        "price": "160",
-        "sections": [
-          {
-            "event_id": "4099659",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-07-19 10:00:00",
-            "duration": "0",
-            "end_date": "2025-07-19 17:00:00",
-            "override_event_id": null,
-            "class_id_str": "#2",
-            "class_label_str": "JULY 19",
-            "quilt_class_id": "585530",
-            "inventory": "0",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "0",
-            "date": "July 19, 2025",
-            "date_short": "Jul 19, 2025",
-            "time": "10:00am - 5:00pm"
-          }
-        ],
-        "first_date": "Jul 19, 2025",
-        "event_id": "4099659",
-        "add_to_waitlist": false,
-        "store_id": "7381",
-        "sort_date": 1752940800,
-        "seats": "0",
-        "unlimited_seats": false,
-        "last_date": "Jul 19, 2025"
-      }
-    }
-  },
-  {
-    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/587215/home-tweet-home-applique-class",
-    "event_data": {
-      "#1": {
-        "class_id_str": "#1",
-        "title": "Home Tweet Home Applique Class",
-        "price": "75",
-        "sections": [
-          {
-            "event_id": "4074537",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-07-26 10:00:00",
-            "duration": "0",
-            "end_date": "2025-07-26 17:00:00",
-            "override_event_id": null,
-            "class_id_str": "#1",
-            "class_label_str": "",
-            "quilt_class_id": "587215",
-            "inventory": "0",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "1",
-            "date": "July 26, 2025",
-            "date_short": "Jul 26, 2025",
-            "time": "10:00am - 5:00pm"
-          }
-        ],
-        "first_date": "Jul 26, 2025",
-        "event_id": "4074537",
-        "add_to_waitlist": true,
-        "store_id": "7381",
-        "sort_date": 1753545600,
-        "seats": "0",
-        "unlimited_seats": false,
-        "last_date": "Jul 26, 2025"
       }
     }
   }
