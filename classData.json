@@ -98,7 +98,7 @@
             "class_id_str": "#28",
             "class_label_str": "",
             "quilt_class_id": "501837",
-            "inventory": "26",
+            "inventory": "25",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -114,7 +114,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1754496000,
-        "seats": "26",
+        "seats": "25",
         "unlimited_seats": false,
         "last_date": "Aug 6, 2025"
       },
@@ -288,7 +288,7 @@
             "class_id_str": "#1",
             "class_label_str": "",
             "quilt_class_id": "602532",
-            "inventory": "39",
+            "inventory": "36",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -326,7 +326,7 @@
         "add_to_waitlist": false,
         "store_id": "7381",
         "sort_date": 1757606400,
-        "seats": "39",
+        "seats": "36",
         "unlimited_seats": false,
         "last_date": "Sep 12, 2025"
       }
@@ -458,12 +458,12 @@
             "class_id_str": "#1",
             "class_label_str": "",
             "quilt_class_id": "604076",
-            "inventory": "-1",
+            "inventory": "39",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
             "main_image": null,
-            "show_add_to_wait_list_button": "0",
+            "show_add_to_wait_list_button": "1",
             "date": "August 9, 2025",
             "date_short": "Aug 9, 2025",
             "time": "10:00am - 2:00pm"
@@ -471,11 +471,11 @@
         ],
         "first_date": "Aug 9, 2025",
         "event_id": "4190998",
-        "add_to_waitlist": false,
+        "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1754755200,
-        "seats": null,
-        "unlimited_seats": true,
+        "seats": "39",
+        "unlimited_seats": false,
         "last_date": "Aug 9, 2025"
       }
     }
@@ -643,7 +643,7 @@
             "class_id_str": "#1",
             "class_label_str": "",
             "quilt_class_id": "602532",
-            "inventory": "39",
+            "inventory": "36",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -681,7 +681,7 @@
         "add_to_waitlist": false,
         "store_id": "7381",
         "sort_date": 1757606400,
-        "seats": "39",
+        "seats": "36",
         "unlimited_seats": false,
         "last_date": "Sep 12, 2025"
       }
@@ -749,12 +749,12 @@
             "class_id_str": "#1",
             "class_label_str": "",
             "quilt_class_id": "604076",
-            "inventory": "-1",
+            "inventory": "39",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
             "main_image": null,
-            "show_add_to_wait_list_button": "0",
+            "show_add_to_wait_list_button": "1",
             "date": "August 9, 2025",
             "date_short": "Aug 9, 2025",
             "time": "10:00am - 2:00pm"
@@ -762,11 +762,11 @@
         ],
         "first_date": "Aug 9, 2025",
         "event_id": "4190998",
-        "add_to_waitlist": false,
+        "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1754755200,
-        "seats": null,
-        "unlimited_seats": true,
+        "seats": "39",
+        "unlimited_seats": false,
         "last_date": "Aug 9, 2025"
       }
     }
@@ -833,7 +833,7 @@
             "class_id_str": "#28",
             "class_label_str": "",
             "quilt_class_id": "501837",
-            "inventory": "26",
+            "inventory": "25",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -849,7 +849,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1754496000,
-        "seats": "26",
+        "seats": "25",
         "unlimited_seats": false,
         "last_date": "Aug 6, 2025"
       },
