@@ -342,7 +342,7 @@
             "class_id_str": "#3",
             "class_label_str": "Tamarack003",
             "quilt_class_id": "564139",
-            "inventory": "3",
+            "inventory": "2",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -380,7 +380,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1754150400,
-        "seats": "3",
+        "seats": "2",
         "unlimited_seats": false,
         "last_date": "Sep 20, 2025"
       }
@@ -406,7 +406,7 @@
             "class_id_str": "#1",
             "class_label_str": "",
             "quilt_class_id": "587216",
-            "inventory": "3",
+            "inventory": "2",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -422,7 +422,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1758988800,
-        "seats": "3",
+        "seats": "2",
         "unlimited_seats": false,
         "last_date": "Sep 27, 2025"
       }
@@ -569,7 +569,7 @@
             "class_id_str": "#3",
             "class_label_str": "Tamarack003",
             "quilt_class_id": "564139",
-            "inventory": "3",
+            "inventory": "2",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -607,7 +607,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1754150400,
-        "seats": "3",
+        "seats": "2",
         "unlimited_seats": false,
         "last_date": "Sep 20, 2025"
       }
@@ -633,7 +633,7 @@
             "class_id_str": "#1",
             "class_label_str": "",
             "quilt_class_id": "587216",
-            "inventory": "3",
+            "inventory": "2",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -649,7 +649,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1758988800,
-        "seats": "3",
+        "seats": "2",
         "unlimited_seats": false,
         "last_date": "Sep 27, 2025"
       }
@@ -717,7 +717,7 @@
             "class_id_str": "#28",
             "class_label_str": "",
             "quilt_class_id": "501837",
-            "inventory": "24",
+            "inventory": "23",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -733,7 +733,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1754496000,
-        "seats": "24",
+        "seats": "23",
         "unlimited_seats": false,
         "last_date": "Aug 6, 2025"
       },
