@@ -1,264 +1,5 @@
 [
   {
-    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/604076/destash-dash",
-    "event_data": {
-      "#1": {
-        "class_id_str": "#1",
-        "title": "Destash Dash!",
-        "price": "10",
-        "sections": [
-          {
-            "event_id": "4190998",
-            "store_id": "7381",
-            "event_group_id": "788908709",
-            "address": null,
-            "start_date": "2025-08-09 10:00:00",
-            "duration": "0",
-            "end_date": "2025-08-09 14:00:00",
-            "override_event_id": null,
-            "class_id_str": "#1",
-            "class_label_str": "",
-            "quilt_class_id": "604076",
-            "inventory": "0",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "1",
-            "date": "August 9, 2025",
-            "date_short": "Aug 9, 2025",
-            "time": "10:00am - 2:00pm"
-          }
-        ],
-        "first_date": "Aug 9, 2025",
-        "event_id": "4190998",
-        "add_to_waitlist": true,
-        "store_id": "7381",
-        "sort_date": 1754755200,
-        "seats": "0",
-        "unlimited_seats": false,
-        "last_date": "Aug 9, 2025"
-      }
-    }
-  },
-  {
-    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/604673/saturday-stitchery",
-    "event_data": {
-      "#1": {
-        "class_id_str": "#1",
-        "title": "Saturday Stitchery",
-        "price": "30",
-        "sections": [
-          {
-            "event_id": "4194500",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-08-30 09:00:00",
-            "duration": "0",
-            "end_date": "2025-08-30 18:00:00",
-            "override_event_id": null,
-            "class_id_str": "#1",
-            "class_label_str": "0830",
-            "quilt_class_id": "604673",
-            "inventory": "34",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "0",
-            "date": "August 30, 2025",
-            "date_short": "Aug 30, 2025",
-            "time": "9:00am - 6:00pm"
-          }
-        ],
-        "first_date": "Aug 30, 2025",
-        "event_id": "4194500",
-        "add_to_waitlist": false,
-        "store_id": "7381",
-        "sort_date": 1756566000,
-        "seats": "34",
-        "unlimited_seats": false,
-        "last_date": "Aug 30, 2025"
-      },
-      "#2": {
-        "class_id_str": "#2",
-        "title": "Saturday Stitchery",
-        "price": "30",
-        "sections": [
-          {
-            "event_id": "4194501",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-09-27 09:00:00",
-            "duration": "0",
-            "end_date": "2025-09-27 18:00:00",
-            "override_event_id": null,
-            "class_id_str": "#2",
-            "class_label_str": "0927",
-            "quilt_class_id": "604673",
-            "inventory": "40",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "0",
-            "date": "September 27, 2025",
-            "date_short": "Sep 27, 2025",
-            "time": "9:00am - 6:00pm"
-          }
-        ],
-        "first_date": "Sep 27, 2025",
-        "event_id": "4194501",
-        "add_to_waitlist": false,
-        "store_id": "7381",
-        "sort_date": 1758985200,
-        "seats": "40",
-        "unlimited_seats": false,
-        "last_date": "Sep 27, 2025"
-      },
-      "#4": {
-        "class_id_str": "#4",
-        "title": "Saturday Stitchery",
-        "price": "30",
-        "sections": [
-          {
-            "event_id": "4196326",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-10-18 09:00:00",
-            "duration": "0",
-            "end_date": "2025-10-18 18:00:00",
-            "override_event_id": null,
-            "class_id_str": "#4",
-            "class_label_str": "1018",
-            "quilt_class_id": "604673",
-            "inventory": "40",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "0",
-            "date": "October 18, 2025",
-            "date_short": "Oct 18, 2025",
-            "time": "9:00am - 6:00pm"
-          }
-        ],
-        "first_date": "Oct 18, 2025",
-        "event_id": "4196326",
-        "add_to_waitlist": false,
-        "store_id": "7381",
-        "sort_date": 1760799600,
-        "seats": "40",
-        "unlimited_seats": false,
-        "last_date": "Oct 18, 2025"
-      },
-      "#3": {
-        "class_id_str": "#3",
-        "title": "Saturday Stitchery",
-        "price": "30",
-        "sections": [
-          {
-            "event_id": "4194502",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-11-15 09:00:00",
-            "duration": "0",
-            "end_date": "2025-11-15 18:00:00",
-            "override_event_id": null,
-            "class_id_str": "#3",
-            "class_label_str": "1115",
-            "quilt_class_id": "604673",
-            "inventory": "40",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "0",
-            "date": "November 15, 2025",
-            "date_short": "Nov 15, 2025",
-            "time": "9:00am - 6:00pm"
-          }
-        ],
-        "first_date": "Nov 15, 2025",
-        "event_id": "4194502",
-        "add_to_waitlist": false,
-        "store_id": "7381",
-        "sort_date": 1763222400,
-        "seats": "40",
-        "unlimited_seats": false,
-        "last_date": "Nov 15, 2025"
-      }
-    }
-  },
-  {
-    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/602532/beginner-cross-stitch-class",
-    "event_data": {
-      "#1": {
-        "class_id_str": "#1",
-        "title": "Beginner Cross Stitch Class",
-        "price": "115",
-        "sections": [
-          {
-            "event_id": "4182077",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-09-11 10:00:00",
-            "duration": "0",
-            "end_date": "2025-09-11 15:00:00",
-            "override_event_id": null,
-            "class_id_str": "#1",
-            "class_label_str": "",
-            "quilt_class_id": "602532",
-            "inventory": "36",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "0",
-            "date": "September 11, 2025",
-            "date_short": "Sep 11, 2025",
-            "time": "10:00am - 3:00pm"
-          },
-          {
-            "event_id": "4182078",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-09-12 10:00:00",
-            "duration": "0",
-            "end_date": "2025-09-12 15:00:00",
-            "override_event_id": null,
-            "class_id_str": "#1",
-            "class_label_str": "",
-            "quilt_class_id": "602532",
-            "inventory": "40",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "0",
-            "date": "September 12, 2025",
-            "date_short": "Sep 12, 2025",
-            "time": "10:00am - 3:00pm"
-          }
-        ],
-        "first_date": "Sep 11, 2025",
-        "event_id": "4182077",
-        "add_to_waitlist": false,
-        "store_id": "7381",
-        "sort_date": 1757606400,
-        "seats": "36",
-        "unlimited_seats": false,
-        "last_date": "Sep 12, 2025"
-      }
-    }
-  },
-  {
     "url": "https://www.boxcarquilts.com/module/class/602532/beginner-cross-stitch-class",
     "event_data": {
       "#1": {
@@ -614,6 +355,70 @@
     }
   },
   {
+    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/602532/beginner-cross-stitch-class",
+    "event_data": {
+      "#1": {
+        "class_id_str": "#1",
+        "title": "Beginner Cross Stitch Class",
+        "price": "115",
+        "sections": [
+          {
+            "event_id": "4182077",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-09-11 10:00:00",
+            "duration": "0",
+            "end_date": "2025-09-11 15:00:00",
+            "override_event_id": null,
+            "class_id_str": "#1",
+            "class_label_str": "",
+            "quilt_class_id": "602532",
+            "inventory": "36",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "0",
+            "date": "September 11, 2025",
+            "date_short": "Sep 11, 2025",
+            "time": "10:00am - 3:00pm"
+          },
+          {
+            "event_id": "4182078",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-09-12 10:00:00",
+            "duration": "0",
+            "end_date": "2025-09-12 15:00:00",
+            "override_event_id": null,
+            "class_id_str": "#1",
+            "class_label_str": "",
+            "quilt_class_id": "602532",
+            "inventory": "40",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "0",
+            "date": "September 12, 2025",
+            "date_short": "Sep 12, 2025",
+            "time": "10:00am - 3:00pm"
+          }
+        ],
+        "first_date": "Sep 11, 2025",
+        "event_id": "4182077",
+        "add_to_waitlist": false,
+        "store_id": "7381",
+        "sort_date": 1757606400,
+        "seats": "36",
+        "unlimited_seats": false,
+        "last_date": "Sep 12, 2025"
+      }
+    }
+  },
+  {
     "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/587216/cookie-cutter-beginner-applique-class",
     "event_data": {
       "#1": {
@@ -656,6 +461,48 @@
     }
   },
   {
+    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/604076/destash-dash",
+    "event_data": {
+      "#1": {
+        "class_id_str": "#1",
+        "title": "Destash Dash!",
+        "price": "10",
+        "sections": [
+          {
+            "event_id": "4190998",
+            "store_id": "7381",
+            "event_group_id": "788908709",
+            "address": null,
+            "start_date": "2025-08-09 10:00:00",
+            "duration": "0",
+            "end_date": "2025-08-09 14:00:00",
+            "override_event_id": null,
+            "class_id_str": "#1",
+            "class_label_str": "",
+            "quilt_class_id": "604076",
+            "inventory": "0",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "1",
+            "date": "August 9, 2025",
+            "date_short": "Aug 9, 2025",
+            "time": "10:00am - 2:00pm"
+          }
+        ],
+        "first_date": "Aug 9, 2025",
+        "event_id": "4190998",
+        "add_to_waitlist": true,
+        "store_id": "7381",
+        "sort_date": 1754755200,
+        "seats": "0",
+        "unlimited_seats": false,
+        "last_date": "Aug 9, 2025"
+      }
+    }
+  },
+  {
     "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/587215/home-tweet-home-applique-class",
     "event_data": {
       "#1": {
@@ -694,6 +541,159 @@
         "seats": "0",
         "unlimited_seats": false,
         "last_date": "Jul 26, 2025"
+      }
+    }
+  },
+  {
+    "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/604673/saturday-stitchery",
+    "event_data": {
+      "#1": {
+        "class_id_str": "#1",
+        "title": "Saturday Stitchery",
+        "price": "30",
+        "sections": [
+          {
+            "event_id": "4194500",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-08-30 09:00:00",
+            "duration": "0",
+            "end_date": "2025-08-30 18:00:00",
+            "override_event_id": null,
+            "class_id_str": "#1",
+            "class_label_str": "0830",
+            "quilt_class_id": "604673",
+            "inventory": "34",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "0",
+            "date": "August 30, 2025",
+            "date_short": "Aug 30, 2025",
+            "time": "9:00am - 6:00pm"
+          }
+        ],
+        "first_date": "Aug 30, 2025",
+        "event_id": "4194500",
+        "add_to_waitlist": false,
+        "store_id": "7381",
+        "sort_date": 1756566000,
+        "seats": "34",
+        "unlimited_seats": false,
+        "last_date": "Aug 30, 2025"
+      },
+      "#2": {
+        "class_id_str": "#2",
+        "title": "Saturday Stitchery",
+        "price": "30",
+        "sections": [
+          {
+            "event_id": "4194501",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-09-27 09:00:00",
+            "duration": "0",
+            "end_date": "2025-09-27 18:00:00",
+            "override_event_id": null,
+            "class_id_str": "#2",
+            "class_label_str": "0927",
+            "quilt_class_id": "604673",
+            "inventory": "40",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "0",
+            "date": "September 27, 2025",
+            "date_short": "Sep 27, 2025",
+            "time": "9:00am - 6:00pm"
+          }
+        ],
+        "first_date": "Sep 27, 2025",
+        "event_id": "4194501",
+        "add_to_waitlist": false,
+        "store_id": "7381",
+        "sort_date": 1758985200,
+        "seats": "40",
+        "unlimited_seats": false,
+        "last_date": "Sep 27, 2025"
+      },
+      "#4": {
+        "class_id_str": "#4",
+        "title": "Saturday Stitchery",
+        "price": "30",
+        "sections": [
+          {
+            "event_id": "4196326",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-10-18 09:00:00",
+            "duration": "0",
+            "end_date": "2025-10-18 18:00:00",
+            "override_event_id": null,
+            "class_id_str": "#4",
+            "class_label_str": "1018",
+            "quilt_class_id": "604673",
+            "inventory": "40",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "0",
+            "date": "October 18, 2025",
+            "date_short": "Oct 18, 2025",
+            "time": "9:00am - 6:00pm"
+          }
+        ],
+        "first_date": "Oct 18, 2025",
+        "event_id": "4196326",
+        "add_to_waitlist": false,
+        "store_id": "7381",
+        "sort_date": 1760799600,
+        "seats": "40",
+        "unlimited_seats": false,
+        "last_date": "Oct 18, 2025"
+      },
+      "#3": {
+        "class_id_str": "#3",
+        "title": "Saturday Stitchery",
+        "price": "30",
+        "sections": [
+          {
+            "event_id": "4194502",
+            "store_id": "7381",
+            "event_group_id": "788895210",
+            "address": null,
+            "start_date": "2025-11-15 09:00:00",
+            "duration": "0",
+            "end_date": "2025-11-15 18:00:00",
+            "override_event_id": null,
+            "class_id_str": "#3",
+            "class_label_str": "1115",
+            "quilt_class_id": "604673",
+            "inventory": "40",
+            "event_type": null,
+            "status": "active",
+            "external_event_id": null,
+            "main_image": null,
+            "show_add_to_wait_list_button": "0",
+            "date": "November 15, 2025",
+            "date_short": "Nov 15, 2025",
+            "time": "9:00am - 6:00pm"
+          }
+        ],
+        "first_date": "Nov 15, 2025",
+        "event_id": "4194502",
+        "add_to_waitlist": false,
+        "store_id": "7381",
+        "sort_date": 1763222400,
+        "seats": "40",
+        "unlimited_seats": false,
+        "last_date": "Nov 15, 2025"
       }
     }
   },
