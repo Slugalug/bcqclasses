@@ -19,7 +19,7 @@
             "class_id_str": "#1",
             "class_label_str": "",
             "quilt_class_id": "604076",
-            "inventory": "0",
+            "inventory": "1",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -35,7 +35,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1754755200,
-        "seats": "0",
+        "seats": "1",
         "unlimited_seats": false,
         "last_date": "Aug 9, 2025"
       }
@@ -406,7 +406,7 @@
             "class_id_str": "#1",
             "class_label_str": "",
             "quilt_class_id": "587216",
-            "inventory": "2",
+            "inventory": "3",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -422,7 +422,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1758988800,
-        "seats": "2",
+        "seats": "3",
         "unlimited_seats": false,
         "last_date": "Sep 27, 2025"
       }
@@ -448,7 +448,7 @@
             "class_id_str": "#1",
             "class_label_str": "",
             "quilt_class_id": "604076",
-            "inventory": "0",
+            "inventory": "1",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -464,7 +464,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1754755200,
-        "seats": "0",
+        "seats": "1",
         "unlimited_seats": false,
         "last_date": "Aug 9, 2025"
       }
@@ -633,7 +633,7 @@
             "class_id_str": "#1",
             "class_label_str": "",
             "quilt_class_id": "587216",
-            "inventory": "2",
+            "inventory": "3",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -649,7 +649,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1758988800,
-        "seats": "2",
+        "seats": "3",
         "unlimited_seats": false,
         "last_date": "Sep 27, 2025"
       }
