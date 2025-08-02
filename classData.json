@@ -379,9 +379,10 @@
         "event_id": "3897014",
         "add_to_waitlist": true,
         "store_id": "7381",
-        "sort_date": 1754150400,
+        "sort_date": 1758384000,
         "seats": "0",
         "unlimited_seats": false,
+        "in_progress": true,
         "last_date": "Sep 20, 2025"
       }
     }
@@ -606,9 +607,10 @@
         "event_id": "3897014",
         "add_to_waitlist": true,
         "store_id": "7381",
-        "sort_date": 1754150400,
+        "sort_date": 1758384000,
         "seats": "0",
         "unlimited_seats": false,
+        "in_progress": true,
         "last_date": "Sep 20, 2025"
       }
     }
