@@ -83,7 +83,7 @@
             "class_id_str": "#2",
             "class_label_str": "",
             "quilt_class_id": "586015",
-            "inventory": "9",
+            "inventory": "7",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -165,7 +165,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1768264200,
-        "seats": "9",
+        "seats": "7",
         "unlimited_seats": false,
         "last_date": "Feb 2, 2026"
       }
