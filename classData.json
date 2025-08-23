@@ -233,7 +233,7 @@
             "class_id_str": "#5",
             "class_label_str": "",
             "quilt_class_id": "577942",
-            "inventory": "26",
+            "inventory": "25",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -249,7 +249,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1757170800,
-        "seats": "26",
+        "seats": "25",
         "unlimited_seats": false,
         "last_date": "Sep 6, 2025"
       },
@@ -377,7 +377,7 @@
             "class_id_str": "#1",
             "class_label_str": "",
             "quilt_class_id": "608480",
-            "inventory": "6",
+            "inventory": "5",
             "event_type": null,
             "status": "active",
             "external_event_id": null,
@@ -459,7 +459,7 @@
         "add_to_waitlist": true,
         "store_id": "7381",
         "sort_date": 1759793400,
-        "seats": "6",
+        "seats": "5",
         "unlimited_seats": false,
         "last_date": "Oct 27, 2025"
       }
