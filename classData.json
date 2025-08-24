@@ -658,9 +658,9 @@
             "store_id": "7381",
             "event_group_id": "788895210",
             "address": null,
-            "start_date": "2025-10-18 09:00:00",
+            "start_date": "2025-10-11 09:00:00",
             "duration": "0",
-            "end_date": "2025-10-18 18:00:00",
+            "end_date": "2025-10-11 18:00:00",
             "override_event_id": null,
             "class_id_str": "#4",
             "class_label_str": "1018",
@@ -671,19 +671,19 @@
             "external_event_id": null,
             "main_image": null,
             "show_add_to_wait_list_button": "0",
-            "date": "October 18, 2025",
-            "date_short": "Oct 18, 2025",
+            "date": "October 11, 2025",
+            "date_short": "Oct 11, 2025",
             "time": "9:00am - 6:00pm"
           }
         ],
-        "first_date": "Oct 18, 2025",
+        "first_date": "Oct 11, 2025",
         "event_id": "4196326",
         "add_to_waitlist": false,
         "store_id": "7381",
-        "sort_date": 1760799600,
+        "sort_date": 1760194800,
         "seats": "40",
         "unlimited_seats": false,
-        "last_date": "Oct 18, 2025"
+        "last_date": "Oct 11, 2025"
       },
       "#3": {
         "class_id_str": "#3",
