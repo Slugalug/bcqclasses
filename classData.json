@@ -446,44 +446,6 @@
   {
     "url": "https://55462240-9bac-42bc-956f-e8cf69591477.rain-pods.com/module/class/604673/saturday-stitchery",
     "event_data": {
-      "#1": {
-        "class_id_str": "#1",
-        "title": "Saturday Stitchery",
-        "price": "30",
-        "sections": [
-          {
-            "event_id": "4194500",
-            "store_id": "7381",
-            "event_group_id": "788895210",
-            "address": null,
-            "start_date": "2025-08-30 09:00:00",
-            "duration": "0",
-            "end_date": "2025-08-30 18:00:00",
-            "override_event_id": null,
-            "class_id_str": "#1",
-            "class_label_str": "0830",
-            "quilt_class_id": "604673",
-            "inventory": "0",
-            "event_type": null,
-            "status": "active",
-            "external_event_id": null,
-            "main_image": null,
-            "show_add_to_wait_list_button": "0",
-            "date": "August 30, 2025",
-            "date_short": "Aug 30, 2025",
-            "time": "9:00am - 6:00pm"
-          }
-        ],
-        "first_date": "Aug 30, 2025",
-        "event_id": "4194500",
-        "add_to_waitlist": false,
-        "store_id": "7381",
-        "sort_date": null,
-        "seats": "0",
-        "unlimited_seats": false,
-        "in_progress": true,
-        "last_date": "Aug 30, 2025"
-      },
       "#2": {
         "class_id_str": "#2",
         "title": "Saturday Stitchery",
